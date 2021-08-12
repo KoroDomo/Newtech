@@ -10,8 +10,8 @@ namespace Newtech
         // momento de llmar la funcion PrintAnimal();
         public Animal(string pRaza, int pEdad)
         {
-            pRaza = Raza;
-            pEdad = Edad;
+            Raza = pRaza;
+            Edad = pEdad;
         }
         public void PrintAnimal()
         {

@@ -1,0 +1,16 @@
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.exe
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.deps.json
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.runtimeconfig.json
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.runtimeconfig.dev.json
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.dll
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\ref\Newtech.dll
+C:\Users\javid\OneDrive\Escritorio\Newtech\bin\Debug\net5.0\Newtech.pdb
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.csprojAssemblyReference.cache
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.AssemblyInfoInputs.cache
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.AssemblyInfo.cs
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.csproj.CoreCompileInputs.cache
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.dll
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\ref\Newtech.dll
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.pdb
+C:\Users\javid\OneDrive\Escritorio\Newtech\obj\Debug\net5.0\Newtech.genruntimeconfig.cache

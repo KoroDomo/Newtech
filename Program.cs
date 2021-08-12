@@ -10,7 +10,6 @@ namespace Newtech
 
             Animal a = new Animal("cosa", 13);
 
-
             a.PrintAnimal();
             
             

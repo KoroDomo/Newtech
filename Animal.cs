@@ -3,14 +3,15 @@ using System;
 namespace Newtech
 {
     class Animal
-    {
+    {   
+        
         public string Raza {get; set;}
         public int Edad {get; set;}
 
-        public Animal(string pRaza, int pEdad)
+        public Animal(string raza, int edad)
         {
-            Raza = pRaza;
-            Edad = pEdad;
+            this.Raza = raza;
+            this.Edad = edad;
         }
         public void PrintAnimal()
         {

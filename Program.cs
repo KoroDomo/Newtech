@@ -8,9 +8,11 @@ namespace Newtech
         {
             Console.WriteLine("Hello World!");
 
-            Animal a = new Animal("cosa", 13);
+            Perro p = new Perro("Doberman", 5, "Bobby", true);
+            Perro p2 = new Perro("Chihuahua", 3, "Fifi", false);
 
-            a.PrintAnimal();
+            Console.WriteLine(p.ToString());
+            Perro.Contador();
             
             
         }

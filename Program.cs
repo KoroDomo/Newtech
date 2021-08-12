@@ -9,12 +9,12 @@ namespace Newtech
 
         public Animal(string pRaza, int pEdad)
         {
-            pRaza = Raza;
-            pEdad = Edad;
+            Raza = pRaza;
+            Edad = pEdad;
         }
         public void PrintAnimal()
         {
-            Console.WriteLine("Raza = " + Raza + " || " + "Edad = " + Edad);
+            Console.WriteLine("Raza = " + this.Raza + " || " + "Edad = " + this.Edad);
 
         }
     }
@@ -26,7 +26,10 @@ namespace Newtech
 
             Animal a = new Animal("cosa", 13);
 
+
             a.PrintAnimal();
+            
+            
         }
     }
 }
